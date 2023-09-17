@@ -1,3 +1,4 @@
 # HooBank - Modern UI/UX website using React.js & Tailwind CSS
 
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+
+![4821a49b-abfe-45ce-a074-19aff49b0332](https://github.com/uzair-shafi/Dark-Themed-React-Business-Website/assets/106249514/ab901b4f-4b0d-483e-9932-57d7e3f5c2ba)
